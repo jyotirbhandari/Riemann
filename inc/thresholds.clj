@@ -107,34 +107,34 @@
    "mysql-master/threads-running" {}
    "mysql-master/total_threads-created" {}
 
-   "memcached-pizwik-cache-1/df-cache/free" {:warning 0.10
+   "memcached-example-cache-1/df-cache/free" {:warning 0.10
                                              :critical 0.05
                         		     :invert true}
-   "memcached-pizwik-cache-1/df-cache/used" {}
-   "memcached-pizwik-cache-1/memcached_command-config_get" {}
-   "memcached-pizwik-cache-1/memcached_command-config_set" {}
-   "memcached-pizwik-cache-1/memcached_command-flush" {}
-   "memcached-pizwik-cache-1/memcached_command-get" {}
-   "memcached-pizwik-cache-1/memcached_command-set" {}
-   "memcached-pizwik-cache-1/memcached_command-touch" {}
-   "memcached-pizwik-cache-1/memcached_connections-current" {}
-   "memcached-pizwik-cache-1/memcached_connections-listen_disabled" {}
-   "memcached-pizwik-cache-1/memcached_items-current" {}
-   "memcached-pizwik-cache-1/memcached_octets/rx" {}
-   "memcached-pizwik-cache-1/memcached_octets/tx" {}
-   "memcached-pizwik-cache-1/memcached_ops-decr_hits" {}
-   "memcached-pizwik-cache-1/memcached_ops-decr_misses" {}
-   "memcached-pizwik-cache-1/memcached_ops-evictions" {}
-   "memcached-pizwik-cache-1/memcached_ops-hits" {}
-   "memcached-pizwik-cache-1/memcached_ops-incr" {}
-   "memcached-pizwik-cache-1/memcached_ops-incr_hits" {}
-   "memcached-pizwik-cache-1/memcached_ops-incr_misses" {}
-   "memcached-pizwik-cache-1/memcached_ops-misses" {}
-   "memcached-pizwik-cache-1/percent-hitratio" {}
-   "memcached-pizwik-cache-1/percent-incr_hitratio" {}
-   "memcached-pizwik-cache-1/ps_count/processes" {}
-   "memcached-pizwik-cache-1/ps_count/threads" {}
-   "memcached-pizwik-cache-1/ps_cputime/syst" {}
-   "memcached-pizwik-cache-1/ps_cputime/user" {}
+   "memcached-example-cache-1/df-cache/used" {}
+   "memcached-example-cache-1/memcached_command-config_get" {}
+   "memcached-example-cache-1/memcached_command-config_set" {}
+   "memcached-example-cache-1/memcached_command-flush" {}
+   "memcached-example-cache-1/memcached_command-get" {}
+   "memcached-example-cache-1/memcached_command-set" {}
+   "memcached-example-cache-1/memcached_command-touch" {}
+   "memcached-example-cache-1/memcached_connections-current" {}
+   "memcached-example-cache-1/memcached_connections-listen_disabled" {}
+   "memcached-example-cache-1/memcached_items-current" {}
+   "memcached-example-cache-1/memcached_octets/rx" {}
+   "memcached-example-cache-1/memcached_octets/tx" {}
+   "memcached-example-cache-1/memcached_ops-decr_hits" {}
+   "memcached-example-cache-1/memcached_ops-decr_misses" {}
+   "memcached-example-cache-1/memcached_ops-evictions" {}
+   "memcached-example-cache-1/memcached_ops-hits" {}
+   "memcached-example-cache-1/memcached_ops-incr" {}
+   "memcached-example-cache-1/memcached_ops-incr_hits" {}
+   "memcached-example-cache-1/memcached_ops-incr_misses" {}
+   "memcached-example-cache-1/memcached_ops-misses" {}
+   "memcached-example-cache-1/percent-hitratio" {}
+   "memcached-example-cache-1/percent-incr_hitratio" {}
+   "memcached-example-cache-1/ps_count/processes" {}
+   "memcached-example-cache-1/ps_count/threads" {}
+   "memcached-example-cache-1/ps_cputime/syst" {}
+   "memcached-example-cache-1/ps_cputime/user" {}
 
    })

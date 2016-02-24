@@ -20,8 +20,3 @@
         (call-rescue new-event children)))))
 
 
-;(defn alert-email-create
-;  (let [email (mailer {:from "info@pizwik.in"})]
-;    (changed-state
-;      (where (state "ok") (:resolve (email "jyotirbhandari@gmail.com"))
-;      (else (:trigger (email "jyotirbhandari@gmail.com")))))))
